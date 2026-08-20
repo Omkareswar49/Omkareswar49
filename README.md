@@ -15,7 +15,6 @@
 ### About
 
 - CS Engineering student at SRM University, Andhra Pradesh
-- Working on an LLM research project (Transformers, RAG) under faculty supervision
 - Building backend systems in Go — gRPC, PostgreSQL, Docker
 - Currently exploring iOS development (Swift)
 
