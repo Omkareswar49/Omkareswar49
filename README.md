@@ -4,7 +4,7 @@
 
 **CS Engineering Student · Backend & Systems** 
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-1a1a1a?style=flat-square&logo=gmail&logoColor=9e9e9e"/></a>
+<a href="mailto:omkareswar40@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1a1a?style=flat-square&logo=gmail&logoColor=9e9e9e"/></a>
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=9e9e9e"/></a>
 <img src="https://komarev.com/ghpvc/?username=Omkareswar49&style=flat-square&color=1a1a1a&label=views"/>
 
